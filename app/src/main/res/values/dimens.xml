@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_Bandeira">250dp</dimen>
+    <dimen name="largura_food">250dp</dimen>
+    <dimen name="pais_textSize">24sp</dimen>
+    <dimen name="food_textSize">24sp</dimen>
+</resources>

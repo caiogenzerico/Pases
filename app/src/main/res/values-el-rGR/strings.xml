@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">χώρες</string>
+    <string name="paisTextView">Ελλάδα</string>
+    <string name="foodTextView">γεμιστά</string>
+    <string name="foodImageView">γεμιστά</string>
+    <string name="bandeiraImageView">Ελλάδα</string>
+</resources>

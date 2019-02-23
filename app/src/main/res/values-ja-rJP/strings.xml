@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国 </string>
+    <string name="paisTextView">日本</string>
+    <string name="foodTextView">テーマ</string>
+    <string name="foodImageView">テーマ</string>
+    <string name="bandeiraImageView">日本</string>
+</resources>

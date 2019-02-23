@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Países</string>
+    <string name="paisTextView">Brasil</string>
+    <string name="foodImageView">feijoada</string>
+    <string name="foodTextView">feijoada</string>
+    <string name="bandeiraImageView">Brasil</string>
+</resources>
